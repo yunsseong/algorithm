@@ -19,3 +19,4 @@
 | 16194 | 카드 구매하기 2     |                                                                                                                                                                                      |  +   |
 | 15990 | 1, 2, 3 더하기 5 |                                                                      [Link](https://jdselectron.tistory.com/71)                                                                      |  !   |
 | 1991  | 트리 순회         |                                                                                                                                                                                      |  +   |
+| 11725 | 트리의 부모 찾기 |                     [Link](https://pottatt0.tistory.com/entry/%EB%B0%B1%EC%A4%80-11725-python-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)                     |  !   | |
