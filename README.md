@@ -24,6 +24,7 @@
 | 16928 | 뱀과 사다리 게임     |                                                                      [Link](https://data-flower.tistory.com/82)                                                                      |  !   |       |
 
 ## 리트 코드
-| idx  | Title                  | HelpLink | Mark | Retry |
-|:----:|:-----------------------|:--------:|:----:|:-----:|
-| 1929 | Concatenation of Array |          |  +   |       | 
+| idx  | Title                        | HelpLink | Mark | Retry |
+|:----:|:-----------------------------|:--------:|:----:|:-----:|
+| 1929 | Concatenation of Array       |          |  +   |       | 
+| 1920 | Build Array from Permutation |          |  +   |       |
