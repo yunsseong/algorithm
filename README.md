@@ -28,3 +28,4 @@
 |:----:|:-----------------------------|:--------:|:----:|:-----:|
 | 1929 | Concatenation of Array       |          |  +   |       | 
 | 1920 | Build Array from Permutation |          |  +   |       |
+| 1768 | Merge Strings Alternately    |          |  +   |       |
