@@ -23,7 +23,7 @@
 | 14675 | 단절점과 단절선      |                  [Link](https://littlesam95.tistory.com/entry/BOJGold-5-%EB%B0%B1%EC%A4%80-14675-%EB%8B%A8%EC%A0%88%EC%A0%90%EA%B3%BC-%EB%8B%A8%EC%A0%88%EC%84%A0C)                  |  !   |       |
 | 16928 | 뱀과 사다리 게임     |                                                                      [Link](https://data-flower.tistory.com/82)                                                                      |  !   |       |
 | 1446  | 지름길           |                                                                                                                                                                                      |  -   |       |
-
+| 1303  | 전쟁 - 전투       |                                                                                                                                                                                      |  +   |       |
 ## 리트 코드
 | idx  | Title                        | HelpLink | Mark | Retry |
 |:----:|:-----------------------------|:--------:|:----:|:-----:|
