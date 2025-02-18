@@ -35,6 +35,7 @@
 | 30804 | 과일 탕후루             |                                                                                                                                                                                      |  -   |       |
 | 11403 | 경로 찾기              |                                                                     [Link](https://whitehairhan.tistory.com/333)                                                                     |  !   |       |
 | 11279 | 최대 힙               |                                                                                                                                                                                      |  +   |       |
+| 5525  | IOIOI              |                                                                      [Link](https://black-hair.tistory.com/135)                                                                      |  !   |       |
 ## 프로그래머스
 |  idx  | Title |                         HelpLink                         | Mark | Retry |
 |:-----:|:------|:--------------------------------------------------------:|:----:|:-----:|
