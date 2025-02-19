@@ -36,6 +36,7 @@
 | 11403 | 경로 찾기              |                                                                     [Link](https://whitehairhan.tistory.com/333)                                                                     |  !   |       |
 | 11279 | 최대 힙               |                                                                                                                                                                                      |  +   |       |
 | 5525  | IOIOI              |                                                                      [Link](https://black-hair.tistory.com/135)                                                                      |  !   |       |
+| 1541  | 잃어버린 괄호            |                                                                                                                                                                                      |  +   |       |
 ## 프로그래머스
 |  idx  | Title |                         HelpLink                         | Mark | Retry |
 |:-----:|:------|:--------------------------------------------------------:|:----:|:-----:|
