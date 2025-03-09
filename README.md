@@ -61,6 +61,7 @@
 | 15661 | 겉넓이 구하기            |                                                                                     [Link](https://edder773.tistory.com/80)                                                                                      |  !   |       |
 | 13913 | 숨바꼭질 4             |                                                                                                                                                                                                                  |  -   |       |
 | 14226 | 이모티콘               |                                                                                                                                                                                                                  |  -   |       |
+| 1261  | 알고스팟               |                                                                                    [Link](https://nicotina04.tistory.com/168)                                                                                    |  !   |       |
 ## 프로그래머스
 
 |  idx  | Title |                         HelpLink                         | Mark | Retry |
