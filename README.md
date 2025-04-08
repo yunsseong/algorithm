@@ -97,6 +97,7 @@
 | 9417  | 최대 GCD                |                                                                                                                                                                                                                  |  +   |       |
 | 1978  | 소수 찾기                 |                                                                                                                                                                                                                  |  +   |       |
 | 15996 | 팩토리얼 나누기              |                                                                          [Link](https://ind2x.github.io/posts/factorial_factorization/)                                                                          |  !   |       |
+| 2004  | 조합 0의 개수              |                                                                                                                                                                                                                  |  -   |       |
 
 ## 프로그래머스
 
